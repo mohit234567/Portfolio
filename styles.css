@@ -31,7 +31,12 @@ body {
 
 .coral {
     color: coral;
-     text-decoration: none;
+     
+}
+
+.link {
+    text-decoration: none;
+    color: coral;
 }
 
 .qualification {
