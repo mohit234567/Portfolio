@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 50%;
+    margin: auto;
+    color: white;
+    background-color: black;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.face {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.title {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name {
+    color: grey;
+}
+
+.coral {
+    color: coral;
+}
+
+.qualification {
+    letter-spacing: 3px;
+    margin-left: 2px;
+}
+
+.hrline {
+    border: 1px solid coral;
+}
+
+.heading {
+    min-width: 250px;
+    display: block
+}
+
+.props {
+    font-size: 22px;
+    color: coral;
+}
+
+.marginfix {
+    margin-top: 20px;
+}
+
+.skillheading {
+    font-size: 20px;
+}
+
+.skilldescription {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
